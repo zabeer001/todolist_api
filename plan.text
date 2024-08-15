@@ -1,0 +1,17 @@
+Simplified To-Do CRUD Module Plan:
+
+1. Basic CRUD Operations:
+</ here I added the latest verion of my average crud operation />
+
+2. Focus on creating, reading, updating, and deleting tasks in a to-do list.
+AJAX Implementation:
+
+3. Use AJAX for seamless and asynchronous interaction with the server.
+Integration with YajraBox Datatable:
+
+Implement YajraBox Datatable in the index view for efficient handling of large datasets.
+
+ 
+</ ----- though my task is only crud. But I want to do the task as I need to learn something more// as It found interesting and self development />
+
+
